@@ -1,0 +1,30 @@
+{
+  "name": "talk_fullcycle_laravel_mix",
+  "version": "1.0.0",
+  "description": "Simples talk sobre Laravel Mix,  com os membros Full Cycle",
+  "main": "index.js",
+  "scripts": {
+    "dev": "mix",
+    "watch": "mix watch",
+    "prod": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://candidosouza: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@github.com/candidosouza/talk_fullcycle_laravel_mix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candidosouza/talk_fullcycle_laravel_mix/issues"
+  },
+  "homepage": "https://github.com/candidosouza/talk_fullcycle_laravel_mix#readme",
+  "dependencies": {
+    "laravel-mix": "^6.0.41"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0"
+  }
+}
